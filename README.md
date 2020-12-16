@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**alli1325/alli1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Allison Moreira :sunglasses:
 
 ## Hi there 👋! Welcome to my profile!
