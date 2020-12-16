@@ -3,14 +3,20 @@
 <!--
 **alli1325/alli1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Allison Moreira :sunglasses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋! Welcome to my profile!
+
+Here something about me:
+
+- 🔭 I'm looking for an internship opportunity
+- 🌱 I’m currently learning C# and .NET
+
+I'm an student in System Analysis and Development:
+
+- 💜 In love with C#
+
+- ❤️ I'm love Javascript/Typescript too
+
+  
+
